@@ -1,0 +1,10 @@
+#----------
+# (0) [mas] parallax
+# (1) [deg] ell
+# (2) [deg] b
+# (3) [km/s] heliocentric line-of-sight velocity
+# (4) [mas/yr] proper motion along ell direction (mu_ellstar = mu_ell * cos(b))
+# (5) [mas/yr] proper motion along b direction (mu_b)
+#----------
+1.0  135.  30.    50.   4.1   2.5
+2.0   45.  10.   -150.  2.1  12.5
